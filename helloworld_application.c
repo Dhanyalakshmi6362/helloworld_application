@@ -12,7 +12,7 @@ int main(int argc,char* argv[])
 		printf("helloworld version: %d.%d.%d\n",VERSION_MAJOR,VERSION_MINOR,VERSION_PATCH);
 		return 0;
 	}
-	printf("Hello World!\n");
+	printf("Hello Universe!\n");
 	sleep(10);
 
         // Intentionally create a crash in this application
